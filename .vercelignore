@@ -1,0 +1,13 @@
+﻿# Exclude test files
+backend/tests/
+run_tests.py
+
+# Exclude development files
+.git/
+.github/
+.env*
+*.md
+run.py
+__pycache__/
+*.pyc
+catboost_info/
